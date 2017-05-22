@@ -1,0 +1,9 @@
+{
+    "name": "my project API Rest",
+    "version": "1.0.0",
+    "description": "API Rest para my project, creado con apidocjs.com",
+    "template": {
+        "forceLanguage": "es"
+    },
+    "url": "http://localhost:8080"
+}

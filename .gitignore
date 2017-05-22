@@ -1,0 +1,7 @@
+/utils/logger/log.txt
+'node_modules'
+node_module/
+'npm-debug.log'
+ 
+# dependencies
+node_modules

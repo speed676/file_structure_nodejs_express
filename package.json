@@ -1,0 +1,37 @@
+{
+  "name": "my_name_project",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "API for my project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm install && node app.js"
+  },
+  "keywords": [
+    "Tender-bot",
+    "mashup"
+  ],
+  "author": "Victor Guillem Agustí",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "express-logger": "0.0.3",
+    "glob": "^7.1.1",
+    "jsonwebtoken": "^7.3.0",
+    "mongodb": "^2.2.25",
+    "mongoose": "^4.9.4",
+    "request": "^2.79.0",
+    "sentiment-spanish": "0.0.8",
+    "simple-node-logger": "^0.93.17",
+    "slice-file": "^1.0.0",
+    "split": "^1.0.0",
+    "twitter": "^1.7.0"
+  },
+  "engines": {
+    "node": "^6.9.5",
+    "npm": "^4.5.0"
+  }
+}
